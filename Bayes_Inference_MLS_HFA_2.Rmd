@@ -2,7 +2,7 @@
 title: "Bayesian Analysis of Major League Soccer Homefield Advantage"
 author: "Peter Barston"
 date: "____"
-output: git_document
+output: github_document
 ---
 
 ![](./Home_celebration_pic.jpg)
