@@ -1043,13 +1043,6 @@ Third, HPDI widths actually go down as the seasons go on. 2017 has a 89th percen
 
 All in all, considering so much of the probability distribution lies somewhere in the .2 to .5 range, I would conclude that MLS has a homefield advantage that is non-negligible and worth investigating further.  
 
-
-## PB Checklist - To Delete
-Does it run locally? YES
-Does it run in a zip?
-Does it knit? YES
-Does the notebook make sense? 
-
 ## Further Study
 
 I propose a few areas for further study. 
@@ -1066,5 +1059,5 @@ If one was curious, a possible other data source would be [Jalapic's github repo
 
 Another possible idea more generally would be to update [Daniel Weitzenfeld's 2014 blog post about Bayesian inference in the Premier League](http://danielweitzenfeld.github.io/passtheroc/blog/2014/10/28/bayes-premier-league/). 
 
-Thanks for reading, please be sure to follow up with any questions you might have. And next time your favorite MLS team ties at home, just know - they likely were spotted a fractional goal to begin with! 
+Thanks for reading, please be sure to follow up with any questions you might have. And next time your favorite MLS team ties at home, just know, they likely were spotted a fractional goal to begin with! 
 
