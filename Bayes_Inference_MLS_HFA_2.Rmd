@@ -381,7 +381,7 @@ m0 = readRDS("./m0.rds")
 
 
 Sanity Check
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 set.seed(1999)
 
 m0_priors = extract.prior(m0, n = 10000)
@@ -465,7 +465,7 @@ We know the priors make sense in a vacuum, but how about their interactions toge
 
 First, let's grab the priors:
 
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 #Grab priors
 set.seed(1999)
 
@@ -621,7 +621,7 @@ m2 = readRDS("./m2.rds")
 
 Prior check: 
 
-```{r message=FALSE}
+```{r message=FALSE, warning=FALSE}
 set.seed(1999)
 
 m2_priors <- extract.prior(m2, n=1e4)
